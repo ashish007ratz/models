@@ -1,0 +1,16 @@
+{
+  "name": "modling",
+  "version": "1.0.0",
+  "description": "modling the database files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "modle"
+  ],
+  "author": "Ashish Raturi",
+  "license": "ISC"
+}
